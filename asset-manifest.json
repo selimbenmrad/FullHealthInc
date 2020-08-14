@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "//github.com/selimbenmrad/FullHealthInc/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "//github.com/selimbenmrad/FullHealthInc/static/js/main.2d1c3409.chunk.js",
+    "main.js.map": "//github.com/selimbenmrad/FullHealthInc/static/js/main.2d1c3409.chunk.js.map",
+    "runtime-main.js": "//github.com/selimbenmrad/FullHealthInc/static/js/runtime-main.35199295.js",
+    "runtime-main.js.map": "//github.com/selimbenmrad/FullHealthInc/static/js/runtime-main.35199295.js.map",
+    "static/js/2.8d41d073.chunk.js": "//github.com/selimbenmrad/FullHealthInc/static/js/2.8d41d073.chunk.js",
+    "static/js/2.8d41d073.chunk.js.map": "//github.com/selimbenmrad/FullHealthInc/static/js/2.8d41d073.chunk.js.map",
+    "index.html": "//github.com/selimbenmrad/FullHealthInc/index.html",
+    "precache-manifest.bf891fb0a1b69e60fc4338fc6736419e.js": "//github.com/selimbenmrad/FullHealthInc/precache-manifest.bf891fb0a1b69e60fc4338fc6736419e.js",
+    "service-worker.js": "//github.com/selimbenmrad/FullHealthInc/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "//github.com/selimbenmrad/FullHealthInc/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.8d41d073.chunk.js.LICENSE.txt": "//github.com/selimbenmrad/FullHealthInc/static/js/2.8d41d073.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35199295.js",
+    "static/js/2.8d41d073.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.2d1c3409.chunk.js"
+  ]
+}
