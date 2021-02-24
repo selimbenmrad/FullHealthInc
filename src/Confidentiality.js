@@ -6,12 +6,11 @@ function Assistance() {
     <body>
     <h1>confidentiality polic </h1>
 
-    <p> 1- All authentication-related activities are run by a third party: auth0.b</p>
+    <p> 1- All user information are used by our company only for only prupose of identify the user, the data will no be shared not used for any commercial use</p>
 
-      <p> Personal information related to authentification will not be store anywhere in our company database.</p>
-      <p>  For more information about the third party    https:/tools.ietf.org/html/rfc6749#section-2.1 or  https:/auth0.com/</p>
-    <p> 2- Other personal user information, like preferred language or personal weight will not be sold anywhere and will be used only by our team, with the only purpose of improving the user experience.</p>
-    </body>
+      <p> The data are hosted on firebase server, that is the own by alphabet inc ( google)</p>
+   <p><b> Email adress:</b> fullhealthcompanion@gmail.com </p>
+      </body>
   );
 }
 

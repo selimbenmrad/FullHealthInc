@@ -8,7 +8,7 @@ import {
 import Confidentiality from './Confidentiality';
 import Contact from './Contact';
 import Assistance from './Assistance';
-
+import TermOfUse from './TermOfUse';
 
 export default function App() {
   return (
@@ -28,6 +28,10 @@ export default function App() {
           <li>
             <Link to="/Contact">Contact</Link>
           </li>
+
+          <li>
+            <Link to="/Term of Use">Term of Use</Link>
+          </li>
         </ul>
 
         <Switch>
@@ -39,6 +43,9 @@ export default function App() {
           </Route>
           <Route path="/Contact">
             <Contact />
+          </Route>
+          <Route path="/Term Of Use">
+            <TermOfUse />
           </Route>
         </Switch>
       </div>
