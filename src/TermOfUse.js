@@ -11,7 +11,9 @@ function Assistance() {
       <p> 2-Content can be used only for recreational purposes</p>
       <p>  3-To copy content and use it on any other app, webstie of platrfom is totally prohibated</p>
     <p>4-the use of the content for any comercial reason is prohibated</p>
-    </body>
+<p>5-Our Services do not replace health professional services, and can be used only as a general guidance</p>
+
+</body>
   );
 }
 

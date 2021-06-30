@@ -33,21 +33,11 @@ export default function App() {
             <Link to="/Term of Use">Term of Use</Link>
           </li>
         </ul>
-
-        <Switch>
-          <Route path="/Confidentiality">
-            <Confidentiality />
-          </Route>
-          <Route path="/Assistance">
-            <Assistance />
-          </Route>
-          <Route path="/Contact">
-            <Contact />
-          </Route>
-          <Route path="/Term Of Use">
-            <TermOfUse />
-          </Route>
-        </Switch>
+        <TermOfUse />
+        <Confidentiality />
+        <Assistance />
+        <Contact />
+       
       </div>
     </Router>
   );
