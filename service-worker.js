@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/FullHealthInc/precache-manifest.f36f9398ddccd046c80ad39aef1a732d.js"
+  "/FullHealthInc/precache-manifest.6b1d7e5eb2ae258c855b6359975ea31e.js"
 );
 
 self.addEventListener('message', (event) => {
