@@ -17,7 +17,7 @@ function Assistance() {
     <p> 3- We use revenue payment services, therefore user information will be shared with the company , more information can be found here https://www.revenuecat.com/ .the company will use customer data and sell them for business purposes.
     </p>
 
-    <p> 2- As part of our tracking and allocating advertisement information, we use AppsFlyer services,therefore user information will be shared with the company more information about their policies can be found here https://www.appsflyer.com/. the company will use customer data and sell them for business purposes.
+    <p> 2- As part of our tracking and allocating advertisement information, we use Adjust services,therefore user information will be shared with the company more information about their policies can be found here https://dash.adjust.com/#/. the company will use customer data and sell them for business purposes.
     </p>
 
 
