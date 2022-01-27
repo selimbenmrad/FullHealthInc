@@ -7,7 +7,7 @@ function Assistance() {
 
 
      <p>To cancel subscriptions please visit the subscription page on either the app store or the play store.</p>
-     <p><b> Email adress:</b> fullhealthcompanion@gmail.com </p>
+     <p><b> Email adress:</b>  support@createawesomeapps.tn</p>
     
 
 
