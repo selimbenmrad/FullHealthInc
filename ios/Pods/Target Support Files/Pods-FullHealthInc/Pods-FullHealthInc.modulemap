@@ -1,0 +1,6 @@
+module Pods_FullHealthInc {
+  umbrella header "Pods-FullHealthInc-umbrella.h"
+
+  export *
+  module * { export * }
+}
